@@ -1,0 +1,16 @@
+{
+  "name": "selenium_practice",
+  "version": "1.0.0",
+  "description": "This is selenium basic projects",
+  "license": "ISC",
+  "author": "Shaien",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  },
+  "keywords": []
+}
